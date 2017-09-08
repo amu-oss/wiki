@@ -10,6 +10,6 @@ and develop a flavour of professionalism in them, which normally is very hard to
 
 ## Getting Started
 
-Please refer to our Getting Started wiki. If you think this guide is missing something,
+Please refer to our [Getting Started wiki](https://github.com/AMU-OSS/wiki/wiki/Getting-Started). If you think this guide is missing something,
 please let us know. A PR is most welcome.
 
